@@ -1,4 +1,9 @@
 ## 欢迎来到llllljy的个人网站！
+以下是我的个人简历：
+姓名：骆佳艳
+学号：19210720188
+联系方式：19821228254
+
 
 You can use the [editor on GitHub](https://github.com/llllljy/llllljy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
